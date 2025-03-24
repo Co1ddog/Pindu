@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Temporary
+*.zip
+*.tmp
+*.bak
+
+# Frontend
+*.lock
+coverage/
